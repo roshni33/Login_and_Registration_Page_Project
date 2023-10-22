@@ -1,6 +1,7 @@
 # Login&RegistrationPage_using_jsp_servlet_JDBC_MySQL
 
-Steps to do - 
+## Steps to do -
+1.create dynamic web project in eclipse
 2.add required jars
 3.connect tomcat server to eclipse
 4. we should create a db.
