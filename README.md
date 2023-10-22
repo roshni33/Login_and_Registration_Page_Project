@@ -1,1 +1,1 @@
-# Login_and_Registration_Page_Project
+# Login_&_Registration_Page_using_jsp_servlet_JDBC_MySQL
