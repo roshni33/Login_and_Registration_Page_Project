@@ -25,5 +25,8 @@ Apache Tomcat 9.0 Server
 
 6.write the logic for login and registration
 
+## advice
+
+if you want to use my servletfiles(.java extension files) remove package com.halima.registration; line. otherwise you will encounter an error otherwise you create your own package.
 
 
