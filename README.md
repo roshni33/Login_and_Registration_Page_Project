@@ -29,4 +29,8 @@ Apache Tomcat 9.0 Server
 
 if you want to use my servletfiles(.java extension files) remove package com.halima.registration; line. otherwise you will encounter an error otherwise you create your own package.
 
+## Demo
 
+![signin-ss](https://github.com/roshni33/Login_and_Registration_Page_Project/assets/111836105/c3522916-3758-4f13-95bb-09f6bcaa33db)
+
+![sign up -ss](https://github.com/roshni33/Login_and_Registration_Page_Project/assets/111836105/53dd6b1b-1c6c-4221-8f2e-d6b1ed37307d)
